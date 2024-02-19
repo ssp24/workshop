@@ -13,10 +13,10 @@ wordcloud
 h5py
 gensim
 pyLDAvis
-spacy
 os
 plotly
 requests
 unicodedata
 tqdm
 time
+spaCy
