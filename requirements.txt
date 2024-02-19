@@ -12,7 +12,6 @@ plotly.express
 wordcloud
 h5py
 gensim
-os
 plotly
 requests
 unicodedata
