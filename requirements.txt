@@ -12,7 +12,6 @@ plotly.express
 wordcloud
 h5py
 gensim
-pyLDAvis
 os
 plotly
 requests
@@ -20,3 +19,4 @@ unicodedata
 tqdm
 time
 spaCy
+pyLDAvis
