@@ -12,3 +12,4 @@ spaCy
 pyLDAvis
 nltk
 pytables
+pyArrow
