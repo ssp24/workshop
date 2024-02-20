@@ -11,5 +11,5 @@ requests
 spaCy
 pyLDAvis
 nltk
-PyTables
-pyArrow
+#PyTables
+#pyArrow
