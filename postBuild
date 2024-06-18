@@ -2,3 +2,9 @@
 
 # Install JupyterLab extension
 jupyter labextension install my_extension
+
+# Build the JupyterLab extension
+cd my_extension
+npm install
+npm run build
+cd ..
