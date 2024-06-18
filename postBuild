@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Ensure custom.js is copied to the correct location
+mkdir -p $(jupyter --data-dir)/nbextensions
+cp .jupyter/custom/custom.js $(jupyter --data-dir)/nbextensions/
