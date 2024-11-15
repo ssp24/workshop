@@ -13,3 +13,8 @@ pyLDAvis
 nltk
 tables
 pyarrow
+pysolr
+lxml
+tqdm
+unicodedata
+pathlib
